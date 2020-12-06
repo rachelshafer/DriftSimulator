@@ -5,8 +5,6 @@ The objective of this project was to create an application which calculates and 
 # Project Information
  https://rachelshafer.github.io/drift.html 
 
-# How to use?
-
 # Credits
 Backend by Rachel Shafer <br>
 Frontend by Natalie Shafer
