@@ -8,5 +8,5 @@ The objective of this project was to create an application which calculates and 
 # How to use?
 
 # Credits
-Backend by Rachel Shafer
+Backend by Rachel Shafer <br>
 Frontend by Natalie Shafer
